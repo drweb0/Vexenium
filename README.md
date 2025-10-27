@@ -7,3 +7,8 @@ This private bot, only your trusted users can use it
 Discord: https://discord.gg/FTNasmX2Wv
 
 By Kaox113 (Dr.Web)
+
+Install requirements and start:
+```bash
+pip install discord.py
+python nuke.py
